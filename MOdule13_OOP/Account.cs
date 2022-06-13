@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace MOdule13_OOP
 {
-      public class Account<T>
+      abstract class Account
     {
-        T Value = default(T);
+        
         
         double sum;
         int accountId;
