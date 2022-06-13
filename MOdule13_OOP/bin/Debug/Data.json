@@ -1,0 +1,84 @@
+[
+  {
+    "listaccount": [
+      {
+        "$type": "MOdule13_OOP.DemandAccount, MOdule13_OOP",
+        "TypeAccount": 0,
+        "Sum": 100.0,
+        "Opened": true,
+        "AccountId": 1
+      }
+    ],
+    "Id": 1,
+    "FirstName": "111",
+    "LastName": "111",
+    "FatherName": "111",
+    "PhoneNumber": "111",
+    "Passport": "1111",
+    "Email": "111",
+    "Listaccount": [
+      {
+        "$type": "MOdule13_OOP.DemandAccount, MOdule13_OOP",
+        "TypeAccount": 0,
+        "Sum": 100.0,
+        "Opened": true,
+        "AccountId": 1
+      }
+    ]
+  },
+  {
+    "listaccount": [
+      {
+        "$type": "MOdule13_OOP.DemandAccount, MOdule13_OOP",
+        "TypeAccount": 0,
+        "Sum": 1231.0,
+        "Opened": true,
+        "AccountId": 1
+      },
+      {
+        "$type": "MOdule13_OOP.DepositAccount, MOdule13_OOP",
+        "TypeAccount": 1,
+        "Sum": 1231.0,
+        "Opened": true,
+        "AccountId": 2
+      },
+      {
+        "$type": "MOdule13_OOP.DemandAccount, MOdule13_OOP",
+        "TypeAccount": 0,
+        "Sum": 1231.0,
+        "Opened": true,
+        "AccountId": 4
+      }
+    ],
+    "Id": 2,
+    "FirstName": "222",
+    "LastName": "222",
+    "FatherName": "222",
+    "PhoneNumber": "222",
+    "Passport": "222",
+    "Email": "222",
+    "Listaccount": [
+      {
+        "$type": "MOdule13_OOP.DemandAccount, MOdule13_OOP",
+        "TypeAccount": 0,
+        "Sum": 1231.0,
+        "Opened": true,
+        "AccountId": 1
+      },
+      {
+        "$type": "MOdule13_OOP.DepositAccount, MOdule13_OOP",
+        "TypeAccount": 1,
+        "Sum": 1231.0,
+        "Opened": true,
+        "AccountId": 2
+      },
+      {
+        "$type": "MOdule13_OOP.DemandAccount, MOdule13_OOP",
+        "TypeAccount": 0,
+        "Sum": 1231.0,
+        "Opened": true,
+        "AccountId": 4
+      }
+    ]
+  }
+]
